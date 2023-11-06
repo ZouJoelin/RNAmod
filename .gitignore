@@ -1,0 +1,6 @@
+__pycache__/*
+
+*/data/fast5/*
+*/data/fastq/*
+*/data/*.csv
+!*/data/data_info.csv

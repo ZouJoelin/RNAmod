@@ -1,0 +1,13 @@
+Bio-project , PRJNA511582
+SRA         , SRP174366
+GEO         , GSE124309
+------------------------------------------------
+label     , run/fastq   , size      , GEO       , sample        , fast5         , size
+non-rep1  , SRR8767350  , 0.2Gb     , GSM3528749, SAMN10640340  , RNAAB089716   , 14.0Gb
+m6A-rep1  , SRR8767351  , 0.24Gb    , GSM3528750, SAMN10640339  , RNAAB090763   , 34.0Gb
+non-rep2  , SRR8767348  , 1.9Gb     , GSM3528751, SAMN10640338  , RNA081120181  , 188.6Gb
+m6A-rep2  , SRR8767349  , 1.2Gb     , GSM3528752, SAMN10640337  , RNA081120182  , 135.2Gb
+
+
+
+
